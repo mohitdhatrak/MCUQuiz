@@ -63,12 +63,12 @@ var leaderBoard = [
     score: 4
   },
   {
-    name: "Mahesh Deshmukh ",
-    score: 2
+    name: "Sunil ",
+    score: 3
   },
   {
-    name: "Dummy ",
-    score: 0
+    name: "Mahesh Deshmukh ",
+    score: 2
   }
 ];
 
